@@ -1,0 +1,10 @@
+NAME "Unity.exe"
+EXPORTS
+    ?GetClassAndNamespace@CSharpParser@@YA?AV?$basic_string@DV?$StringStorageDefault@D@core@@@core@@AEBV23@AEAV23@1AEAHPEBU?$dynamic_array@V?$basic_string@DV?$StringStorageDefault@D@core@@@core@@$0A@@@@Z
+    ??$?0PEBD@?$basic_string@DV?$StringStorageDefault@D@core@@@core@@QEAA@PEBD0AEBUMemLabelId@@@Z
+    ??4?$basic_string@DV?$StringStorageDefault@D@core@@@core@@QEAAAEAV01@PEBD@Z
+    ?c_str@?$basic_string@DV?$StringStorageDefault@D@core@@@core@@QEBAPEBDXZ
+    ?create_from_external@?$basic_string@DV?$StringStorageDefault@D@core@@@core@@SA?AV12@PEBD_KAEBUMemLabelId@@@Z
+    ?create_from_external@?$basic_string@DV?$StringStorageDefault@D@core@@@core@@SA?AV12@PEBDAEBUMemLabelId@@@Z
+    ?length@?$basic_string@DV?$StringStorageDefault@D@core@@@core@@QEBA_KXZ
+    ?kMemString@@3UMemLabelId@@A
